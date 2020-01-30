@@ -3,3 +3,18 @@
 ################################################################################
 
 *.opendb
+*.db
+*.exe
+*.ilk
+*.pdb
+/.vs/Solitary/v14
+/Solitary/Debug/Solitary.tlog/Solitary.lastbuildstate
+/Solitary/Debug/Solitary.tlog/link.write.1.tlog
+/Solitary/Debug/Solitary.tlog/link.read.1.tlog
+/Solitary/Debug/Solitary.tlog/link.command.1.tlog
+/Solitary/Debug/Solitary.tlog/CL.write.1.tlog
+/Solitary/Debug/Solitary.tlog/CL.read.1.tlog
+/Solitary/Debug/Solitary.tlog/CL.command.1.tlog
+*.obj
+*.log
+*.idb
